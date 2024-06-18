@@ -5,50 +5,44 @@
 
 ### Olá, eu sou o Daniel Marcos Hermenegildo 👋
 
-![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Insomia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
+<!-- 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmarcosh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-### Formação
-- 🎓 Estudante de Sistemas de Informação - IFMG
+# Sobre Mim
 
-### Experiências Acadêmicas
-#### ProgramaOB 1.0
-- Professor de Programação
-#### OuroHub
-- Desenvolvedor Web
+Olá, meu nome é **Daniel M. Hermenegildo**, sou analista de sistemas com ampla experiência no desenvolvimento de sistemas backend, focado em APIs REST com **Laravel** e **Node.js**. Tenho uma sólida trajetória na análise, programação e criação de novos módulos para plataformas de e-commerce, além de expertise na integração dessas plataformas com diversos ERPs de mercado. Atuei no desenvolvimento de soluções tecnológicas, garantindo o correto funcionamento dos componentes de software em diversos projetos internos. Contribuo diretamente para a experiência satisfatória dos clientes na análise e desenvolvimento de sistemas. Atuei como desenvolvedor full-stack em projetos realizados em colaboração direta com o cliente. Durante minhas atividades rotineiras, fui responsável pelo desenvolvimento de novos módulos em diversos sistemas nos quais participei. Essas experiências me permitiram solidificar meus conhecimentos em análise e desenvolvimento de sistemas.
 
-### Trabalho
-- 🏢 Atualmente estou trabalhando como desenvolvedor web na Ecom-D, a empresa de E-commerce. [Ecom-D](https://www.ecomd.com.br/)
+## Minhas Habilidades Técnicas
 
-### Um pouco de mim
-Estou no processo de construir a minha carreira como desenvolvedor web e nesta jornada eu pretendo conseguir me tornar um desenvolvedor web Full Stack por completo. Eu sou bastante compromissado, muito focado, resiliente, eu sei lidar com pessoas, sou calmo e eu estou aprimorando a cada dia mais a minha habilidade de autodisciplina.
-Eu gosto de estudar sobre tecnologia e assuntos de meus interesses.
-O meus Hobbies são assistir filmes e séries, gosto de comer fastfood mas também adoro um arroz com feijão. Sou feliz e pretendo levar a vida na forma mais leve possível aproveitando cada segundo ...
+- **Backend**: Desenvolvimento avançado com **JavaScript**, **TypeScript**, **Node.js**, **Laravel** e proficiência em **PHP** para desenvolvimento robusto de aplicações.
+- **Frontend**: Expertise em **React** para a criação de interfaces dinâmicas e responsivas.
+- **Banco de Dados**: Experiência com **MySQL** e **PostgreSQL** para garantir a integridade e eficiência no gerenciamento de dados.
+- **Controle de Versão**: Utilização avançada do **Git** para colaboração eficaz e gerenciamento de código.
+- Utilização de serviços da **AWS**.
+- Domínio em **Git** e **Restful** com **JSON**.
+- Experiência em **testes automatizados**.
 
+<!-- 
+## Compromisso com Qualidade
+Além disso, sou adepto da implementação de **testes automatizados** e do monitoramento contínuo do desempenho dos sistemas, assegurando a qualidade e a confiabilidade das soluções que desenvolvo.
+-->
+Estou comprometido em consolidar minha carreira como desenvolvedor, buscando sempre alcançar meus objetivos pessoais e contribuir significativamente para o sucesso dos projetos dos quais participo. Se você precisa de um profissional dedicado e qualificado para elevar a qualidade e eficiência dos seus sistemas, estou à disposição para ajudar.
+
+
+<!-- 
 [![danielmarcosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@danielmarcosh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![danielmarcosh's wakatime stats](https://github-readme-stats.vercel.app/api/?username=danielmarcosh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
