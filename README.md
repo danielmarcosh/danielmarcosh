@@ -1,6 +1,6 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/danielmarcosh)](https://github.com/danielmarcosh)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=)](https://gitlab.com/danielmarcosh)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/daniel-marcos-24260a132/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://linkedin.com/in/daniel-hermenegildo)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danielmarcosh@gmail.com)](mailto:danielmarcosh@gmail.com/)
 
 ### Olá, eu sou o Daniel Marcos Hermenegildo 👋
