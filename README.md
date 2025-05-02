@@ -5,6 +5,7 @@
 
 ### Olá, eu sou o Daniel Marcos Hermenegildo 👋
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white).
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -22,17 +23,19 @@
 
 # Sobre Mim
 
-Olá, meu nome é **Daniel M. Hermenegildo**, sou analista de sistemas com ampla experiência no desenvolvimento de sistemas backend, focado em APIs REST com **Laravel** e **Node.js**. Tenho uma sólida trajetória na análise, programação e criação de novos módulos para plataformas de e-commerce, além de expertise na integração dessas plataformas com diversos ERPs de mercado. Atuei no desenvolvimento de soluções tecnológicas, garantindo o correto funcionamento dos componentes de software em diversos projetos internos. Contribuo diretamente para a experiência satisfatória dos clientes na análise e desenvolvimento de sistemas. Atuei como desenvolvedor full-stack em projetos realizados em colaboração direta com o cliente. Durante minhas atividades rotineiras, fui responsável pelo desenvolvimento de novos módulos em diversos sistemas nos quais participei. Essas experiências me permitiram solidificar meus conhecimentos em análise e desenvolvimento de sistemas.
+Olá, meu nome é **Daniel M. Hermenegildo**, sou analista de sistemas com ampla experiência no desenvolvimento Full-Stack, focado em APIs REST com **PHP**, **Java** e **Node.js**. Tenho uma sólida trajetória na análise, programação e criação de novos módulos para plataformas de e-commerce, além de expertise na integração dessas plataformas com diversos ERPs de mercado. Atuei no desenvolvimento de soluções tecnológicas, garantindo o correto funcionamento dos componentes de software em diversos projetos internos. Contribuo diretamente para a experiência satisfatória dos clientes na análise e desenvolvimento de sistemas. Atuei como desenvolvedor full-stack em projetos realizados em colaboração direta com o cliente. Durante minhas atividades rotineiras, fui responsável pelo desenvolvimento de novos módulos em diversos sistemas nos quais participei. Essas experiências me permitiram solidificar meus conhecimentos em análise e desenvolvimento de sistemas.
 
 ## Minhas Habilidades Técnicas
 
-- **Backend**: Desenvolvimento avançado com **JavaScript**, **TypeScript**, **Node.js**, **Laravel** e proficiência em **PHP** para desenvolvimento robusto de aplicações.
-- **Frontend**: Expertise em **React** para a criação de interfaces dinâmicas e responsivas.
-- **Banco de Dados**: Experiência com **MySQL** e **PostgreSQL** para garantir a integridade e eficiência no gerenciamento de dados.
+- **Backend**: Desenvolvimento avançado com **Java**, **JavaScript**, **TypeScript**, **Node.js**, **Laravel**, **Lumen**, **Swoole** e proficiência em **PHP** para desenvolvimento robusto de aplicações.
+- **Frontend**: Expertise em **React** e **Vue** para a criação de interfaces dinâmicas e responsivas.
+- **Banco de Dados**: Experiência com **MySQL**, **PostgreSQL** e **MongoDBV** para garantir a integridade e eficiência no gerenciamento de dados.
 - **Controle de Versão**: Utilização avançada do **Git** para colaboração eficaz e gerenciamento de código.
+- **DevOp**: **Docker**, **Git**, **Jenkins**, **Linux**.
+- **Qualidade**: **TDD**, **BDD**, **SonarQube**, **Clean Code**, **SOLID**
 - Utilização de serviços da **AWS**.
-- Domínio em **Git** e **Restful** com **JSON**.
-- Experiência em **testes automatizados**.
+- **Mensageria: RabbitMQ, Kafka**.
+- Experiência em **testes automatizados**, **Arquitetura de microserviços**, **segurança (OWASP)**, **REST APIs**, **Keycloak**, **Scrum/Kanban**.
 
 <!-- 
 ## Compromisso com Qualidade
